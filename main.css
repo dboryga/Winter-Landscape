@@ -803,6 +803,10 @@ body {
     rgba(255, 255, 255, 0) 45%, 
     rgba(255, 255, 255, .1) 50%, 
     rgba(255, 255, 255, .3) 80%);
+  background-image: -webkit-radial-gradient(closest-side at 30% 30%, 
+    rgba(255, 255, 255, 0) 45%,
+    rgba(255, 255, 255, .1) 50%,
+    rgba(255, 255, 255, .3) 80%);
 }
 
 @-webkit-keyframes cycle-moon {
