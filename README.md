@@ -1,4 +1,4 @@
-# Winter Landscape
+   # Winter Landscape
 
   ## Display:
 #### > Animated winter landscape
@@ -9,7 +9,7 @@
 
  ## Links:
 ### Github.io Page:
-      https://dboryga.github.io/winter-landscape
+      https://dboryga.github.io/winter-landscape/index.html
 ###
 ### Codepen:
       https://codepen.io/dboryga/pen/VqVPYx
